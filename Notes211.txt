@@ -1,0 +1,22 @@
+get a fuckin notebook to take notes
+
+structures - classes, repositories, methods, properties
+
+classes vs switch (ease for code, wont know ahead of time until debug)
+ -class, list scores, dictionary. setting scope of classes, one attribute at a time
+ -set what you know first, pacman ex. know 5000 pts, 3 lives, within player class
+
+
+now on, make git repos for each solution, else errors when deployed
+
+Class project
+|-> (Classes properties)
+|-> (Repo methods)
+
+Unit test / console, start anywhere
+Console (play, run etc)
+|--> Program (Main)
+|--> ProgramUI Run, hit run, only see menu ex 
+	|-->run(menu)
+
+properties --> methods

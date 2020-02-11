@@ -6,7 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-using [System.ComponentModel.TypeConverter(typeof(System.Windows.Forms.OpacityConverter))];
+//using [System.ComponentModel.TypeConverter(typeof(System.Windows.Forms.OpacityConverter))];
 
 namespace _00_Challenges.Maze_Problem
 {
