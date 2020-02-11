@@ -1,0 +1,5 @@
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\08_Inheritance_Classes\bin\Debug\08_Inheritance_Classes.dll
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\08_Inheritance_Classes\bin\Debug\08_Inheritance_Classes.pdb
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\08_Inheritance_Classes\obj\Debug\08_Inheritance_Classes.csprojAssemblyReference.cache
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\08_Inheritance_Classes\obj\Debug\08_Inheritance_Classes.dll
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\08_Inheritance_Classes\obj\Debug\08_Inheritance_Classes.pdb

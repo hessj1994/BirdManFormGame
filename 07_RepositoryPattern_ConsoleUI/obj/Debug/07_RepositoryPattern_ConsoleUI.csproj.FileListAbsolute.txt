@@ -1,0 +1,9 @@
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\07_RepositoryPattern_ConsoleUI\bin\Debug\07_RepositoryPattern_ConsoleUI.exe.config
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\07_RepositoryPattern_ConsoleUI\bin\Debug\07_RepositoryPattern_ConsoleUI.exe
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\07_RepositoryPattern_ConsoleUI\bin\Debug\07_RepositoryPattern_ConsoleUI.pdb
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\07_RepositoryPattern_ConsoleUI\bin\Debug\07_RepositoryPattern_Repository.dll
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\07_RepositoryPattern_ConsoleUI\bin\Debug\07_RepositoryPattern_Repository.pdb
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\07_RepositoryPattern_ConsoleUI\obj\Debug\07_RepositoryPattern_ConsoleUI.csprojAssemblyReference.cache
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\07_RepositoryPattern_ConsoleUI\obj\Debug\07_RepositoryPattern_ConsoleUI.csproj.CopyComplete
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\07_RepositoryPattern_ConsoleUI\obj\Debug\07_RepositoryPattern_ConsoleUI.exe
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\07_RepositoryPattern_ConsoleUI\obj\Debug\07_RepositoryPattern_ConsoleUI.pdb

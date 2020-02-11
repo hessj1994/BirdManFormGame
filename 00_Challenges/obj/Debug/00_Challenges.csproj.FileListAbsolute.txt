@@ -1,0 +1,13 @@
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\00_Challenges\bin\Debug\00_Challenges.dll
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\00_Challenges\bin\Debug\00_Challenges.pdb
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\00_Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\00_Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\00_Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\00_Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\00_Challenges\obj\Debug\00_Challenges.csprojAssemblyReference.cache
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\00_Challenges\obj\Debug\00_Challenges.csproj.CopyComplete
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\00_Challenges\obj\Debug\00_Challenges.dll
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\00_Challenges\obj\Debug\00_Challenges.pdb
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\00_Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\00_Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hessj\Desktop\ElevenFifty\CSharpGold\00_Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
